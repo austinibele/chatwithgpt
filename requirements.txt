@@ -1,0 +1,11 @@
+numpy
+scipy
+tk
+pillow
+sounddevice
+soundfile
+pydub
+google-cloud-texttospeech
+google-cloud-speech
+openai
+pygame
