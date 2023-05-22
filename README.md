@@ -29,7 +29,7 @@ This repo contains code that lets you build an interactive ChatBot, which you ca
 
 1. Press "Record" to begin recording your message.
 2. Press "Stop" to end recording your message.
-3. Press "Send" to send transcribe your message with Google's Speech API, send the transcription to ChatGPT (davinci-003), convert ChatGPT's response to an audiofile with Google's Speech API, and play the audiofile through your system speakers.
+3. Press "Send" to send transcribe your message with Google's Speech API, send the transcription to ChatGPT (Gpt3.5-turbo), convert ChatGPT's response to an audiofile with Google's Speech API, and play the audiofile through your system speakers.
 
 
 ## License
