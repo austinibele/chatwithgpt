@@ -1,7 +1,7 @@
 import os
 from google.cloud import texttospeech
 
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = "credentials/peppy-coda-381318-18329ecd8f11.json"
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = "path_to_your_google_credentials.json"
 
 def text_to_speech(text):
     """

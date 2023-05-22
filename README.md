@@ -18,7 +18,7 @@ This repo contains code that lets you build an interactive ChatBot, which you ca
    cd chatwithgpt
    ```
 
-3. Replace `your_open_api_key` in src/chatbot.py with your actual Open API key, and `path_to_your_google_credentials.json` in src/transcribe.py with the path to your Google Application Credentials file.
+3. Replace `your_open_api_key` in src/chatbot.py with your actual Open API key, and `path_to_your_google_credentials.json` in src/transcribe.py and src/text_to_speech.py with the path to your Google Application Credentials file.
 
 4. Start the service by running:
    ```python
